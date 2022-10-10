@@ -2,8 +2,10 @@
 
 Mi primer repositorio
 
-I like footbal, games, milanese.
+I like football, games, milanese.
 
 i dislike wind, heat
 
 hatred of politicians
+
+Actualizamos respositorio
